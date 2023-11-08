@@ -1,0 +1,351 @@
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.exe.config
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.exe
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.pdb
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\BouncyCastle.Crypto.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Hash.xxHash.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\MySql.Data.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Buffers.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.IO.Pipelines.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Memory.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Numerics.Vectors.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\ZstdSharp.dll
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\BouncyCastle.Crypto.xml
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.pdb
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.xml
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.xml
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Hash.xxHash.xml
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\MySql.Data.xml
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Buffers.xml
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.IO.Pipelines.xml
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Memory.xml
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Numerics.Vectors.xml
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.AssemblyReference.cache
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.SuggestedBindingRedirects.cache
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Form1.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Properties.Resources.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.GenerateResource.cache
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.CoreCompileInputs.cache
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.CopyComplete
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.exe
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.pdb
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Login.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadAdmin.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Menu.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.AssemblyReference.cache
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.SuggestedBindingRedirects.cache
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadAdmin.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Form1.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Login.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Menu.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Properties.Resources.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.GenerateResource.cache
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.CoreCompileInputs.cache
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.exe
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.pdb
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.exe.config
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.exe
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.pdb
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\BouncyCastle.Crypto.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Hash.xxHash.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\MySql.Data.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Buffers.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.IO.Pipelines.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Memory.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Numerics.Vectors.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\ZstdSharp.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\BouncyCastle.Crypto.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.pdb
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Hash.xxHash.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\MySql.Data.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Buffers.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.IO.Pipelines.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Memory.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Numerics.Vectors.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.CopyComplete
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadastraTenis.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaTenis.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadastraTenis.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaTenis.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirTenis.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.exe.config
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.exe
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.pdb
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\BouncyCastle.Crypto.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Hash.xxHash.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\MySql.Data.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Buffers.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.IO.Pipelines.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Memory.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Numerics.Vectors.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\ZstdSharp.dll
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\BouncyCastle.Crypto.xml
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.pdb
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.xml
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.xml
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Hash.xxHash.xml
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\MySql.Data.xml
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Buffers.xml
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.IO.Pipelines.xml
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Memory.xml
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Numerics.Vectors.xml
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.AssemblyReference.cache
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.SuggestedBindingRedirects.cache
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadAdmin.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadastraTenis.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirTenis.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Form1.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Login.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Menu.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaTenis.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Properties.Resources.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.GenerateResource.cache
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.CoreCompileInputs.cache
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.CopyComplete
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.exe
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.pdb
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadFornecedor.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaFornecedor.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirFornecedor.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraTenis.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadastraVenda.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraFornecedor.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraVenda.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirVenda.resources
+E:\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaVenda.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraFornecedor.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraTenis.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraVenda.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadastraVenda.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadFornecedor.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirFornecedor.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirVenda.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaFornecedor.resources
+H:\POO\TERCEIRA ETAPA\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaVenda.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.AssemblyReference.cache
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.exe
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.pdb
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.exe.config
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.exe
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.pdb
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\MySql.Data.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Buffers.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.IO.Pipelines.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Memory.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\ZstdSharp.dll
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.pdb
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.xml
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\MySql.Data.xml
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Buffers.xml
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.IO.Pipelines.xml
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Memory.xml
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.AssemblyReference.cache
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraFornecedor.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraTenis.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraVenda.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadAdmin.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadastraTenis.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadastraVenda.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadFornecedor.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirFornecedor.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirTenis.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirVenda.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Form1.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Login.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Menu.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaFornecedor.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaTenis.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaVenda.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Properties.Resources.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.GenerateResource.cache
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.CoreCompileInputs.cache
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.CopyComplete
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.exe
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.pdb
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraVendedor.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadastraVendedor.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirVendedor.resources
+C:\Users\drmal\Documents\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaVendedor.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.exe.config
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.exe
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.pdb
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\BouncyCastle.Crypto.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Hash.xxHash.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\MySql.Data.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Buffers.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.IO.Pipelines.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Memory.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Numerics.Vectors.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\ZstdSharp.dll
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\BouncyCastle.Crypto.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.pdb
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Hash.xxHash.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\MySql.Data.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Buffers.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.IO.Pipelines.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Memory.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Numerics.Vectors.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.AssemblyReference.cache
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraFornecedor.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraTenis.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraVenda.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraVendedor.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadAdmin.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadastraTenis.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadastraVenda.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadastraVendedor.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadFornecedor.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirFornecedor.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirTenis.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirVenda.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirVendedor.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Form1.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Login.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Menu.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaFornecedor.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaTenis.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaVenda.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaVendedor.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Properties.Resources.resources
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.GenerateResource.cache
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.CoreCompileInputs.cache
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.CopyComplete
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.exe
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.pdb
+D:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Relatorio.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.exe.config
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.exe
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Projeto3CamadasPOO.pdb
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\MySql.Data.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Buffers.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.IO.Pipelines.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Memory.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Numerics.Vectors.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\ZstdSharp.dll
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\BouncyCastle.Crypto.xml
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.pdb
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Google.Protobuf.xml
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\MySql.Data.xml
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Buffers.xml
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.IO.Pipelines.xml
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Memory.xml
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Numerics.Vectors.xml
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.AssemblyReference.cache
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraFornecedor.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraTenis.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraVenda.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.AlteraVendedor.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadAdmin.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadastraTenis.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadastraVenda.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadastraVendedor.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.CadFornecedor.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirFornecedor.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirTenis.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirVenda.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.ExcluirVendedor.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Form1.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Login.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Menu.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaFornecedor.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaTenis.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaVenda.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.PesquisaVendedor.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.Properties.Resources.resources
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.GenerateResource.cache
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.CoreCompileInputs.cache
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.csproj.CopyComplete
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.exe
+C:\Projeto3CamadasPOO\Projeto3CamadasPOO\Projeto3CamadasPOO\obj\Debug\Projeto3CamadasPOO.pdb
